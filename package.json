@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bignum": ">=0.6.1"
+    "bignum": "https://github.com/tiltpool/node-bignum.git"
   },
   "devDependencies": {
     "mocha": ">1.0.0"
